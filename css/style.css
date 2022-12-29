@@ -8,7 +8,11 @@ height:100%
 }
 
 body {
-background: #3DFFA2 url(/img/bg.jpg) center center/cover no-repeat;
+background-color: #666666;
+background-image: url('https://raw.githubusercontent.com/YAGAMI55/retro_site_project/main/img/bg.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 margin:0 auto;
 text-align:center;
 width:100%;

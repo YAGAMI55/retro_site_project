@@ -8,7 +8,7 @@ height:100%
 }
 
 body {
-background-color:#1988F7;
+background-image:linear-gradient(90deg, rgba(6, 88, 170, 1) 0%, rgba(160, 5, 83, 1) 100%);
 margin:0 auto;
 text-align:center;
 width:100%;

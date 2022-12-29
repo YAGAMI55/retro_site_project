@@ -8,7 +8,7 @@ height:100%
 }
 
 body {
-background-color:#20B2AA;
+background: (/img/bg.jpg) center center/cover no-repeat;
 margin:0 auto;
 text-align:center;
 width:100%;

@@ -80,12 +80,9 @@ margin:0 auto
 }
 
 .text_about {
-  align-self:center;
-  margin:0 auto
   font-family:'Roboto Condensed',sans-serif;
   color: white;
   font-size: 30px;
-  transform: translateY(0);
   animation: TextAbout 1s ease 1s 1 normal forwards;
   @keyframes TextAbout {
 	0% {

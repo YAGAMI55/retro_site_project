@@ -82,7 +82,7 @@ margin:0 auto
 .text_about {
   font-family:'Roboto Condensed',sans-serif;
   color: white;
-  font-size: 50px;
+  font-size: 20px;
   position: relative;
   animation: TextAbout 1s ease 1s 1 normal forwards;
   @keyframes TextAbout {
@@ -93,6 +93,9 @@ margin:0 auto
 	100% {
 		transform: scale(1);
 	}
+}
+}
+}
 }
 }
 }

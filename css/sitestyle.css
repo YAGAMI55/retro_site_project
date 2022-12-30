@@ -67,9 +67,8 @@ height:calc(100% - 6px)
 .menu-bar {
   background-color: #1988f7;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   box-sizing: border-box;
-  position:center;
 }
 
 .item {

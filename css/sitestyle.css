@@ -78,3 +78,10 @@ margin:0 auto
 .item:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+.text_about {
+  font-family:'Roboto Condensed',sans-serif;
+  color: white;
+  font-size: 20px;
+  align-self:center;
+  margin:0 auto;

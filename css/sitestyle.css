@@ -84,7 +84,7 @@ margin:0 auto
   color: white;
   font-size: 50px;
   position: relative;
-  animation: TextAbout 1s ease 0s 1 normal forwards;
+  animation: TextAbout 1s ease 1s 1 normal forwards;
   @keyframes TextAbout {
 	0% {
 		transform: scale(0.5);

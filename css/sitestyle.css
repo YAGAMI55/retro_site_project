@@ -45,9 +45,9 @@ margin:0 auto
 }
 
 .content__btn:hover{
-  transition : 327ms;
+  transition: 327ms;
   padding: 10px 50px;
-  transform : translateY(-0px);
+  transform: translateY(-0px);
   background: linear-gradient(90deg, #0066CC 0%, #d62828 100%);
   color: #ffffff;
   border: none;

@@ -69,6 +69,7 @@ height:calc(100% - 6px)
   display: flex;
   justify-content: flex-start;
   box-sizing: border-box;
+  position:relative;
 }
 
 .item {

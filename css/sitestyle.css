@@ -46,7 +46,7 @@ margin:0 auto
 
 .content__btn:hover{
   transition: 327ms;
-  padding: 10px 80px;
+  padding: 10px 60px;
   transform: translateY(-0px);
   background: linear-gradient(90deg, #0066CC 0%, #d62828 100%);
   color: #ffffff;
@@ -56,7 +56,7 @@ margin:0 auto
 .menu-bar {
   position: relative top;
   background-color: #1988f7;
-  opacity: 0.5;
+  opacity: 0.7;
   display: flex;
   justify-content: space-around;
   box-sizing: border-box;

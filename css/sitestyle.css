@@ -68,7 +68,7 @@ height:calc(100% - 6px)
   position: relative top;
   background-color: #1988f7;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   box-sizing: border-box;
   align-items: flex-start;
 }

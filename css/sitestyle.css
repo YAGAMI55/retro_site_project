@@ -44,7 +44,7 @@ margin:0 auto
   transform: translateY(0);
 }
 
-.content__btn:hover::before {
+.content__btn:hover {
   transition : 327ms;
   padding: 10px 50px;
   transform : translateY(-0px);

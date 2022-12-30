@@ -87,22 +87,3 @@ height:calc(100% - 6px)
 .item:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
-
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  justify-items: stretch;
-  align-items: stretch;
-  column-gap: 20px;
-  row-gap: 20px;
-}
-
-.content {
-  color: #242424;
-  background-color: #f25fff;
-  font-weight: 600;
-  text-align: center;
-  box-sizing: border-box;
-  height: 100%;
-  padding: 10px;
-}

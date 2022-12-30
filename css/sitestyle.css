@@ -80,9 +80,8 @@ margin:0 auto
 }
 
 .text_about {
-  padding:50 100px;
-  display: flex;
-  justify-content: space-around;
+  align-self:center;
+  margin:0 auto
   font-family:'Roboto Condensed',sans-serif;
   color: white;
   font-size: 60px;

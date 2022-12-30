@@ -31,7 +31,7 @@ align-self:center;
 margin:0 auto
 }
 
-.content__btn {
+.content__btn{
   font-weight: 0; 
   font-size: 16px; 
   color: #ffffff; 
@@ -44,7 +44,7 @@ margin:0 auto
   transform: translateY(0);
 }
 
-.content__btn:hover {
+.content__btn:hover{
   transition : 327ms;
   padding: 10px 50px;
   transform : translateY(-0px);

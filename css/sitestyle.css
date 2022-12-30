@@ -85,7 +85,7 @@ margin:0 auto
   display:flex
   font-family:'Roboto Condensed',sans-serif;
   color: white;
-  font-size: 600px;
+  font-size: 60px;
   position: relative;
   animation: TextAbout 1s ease 1s 1 normal forwards;
   @keyframes TextAbout {

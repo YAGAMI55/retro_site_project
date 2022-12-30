@@ -70,6 +70,7 @@ height:calc(100% - 6px)
   display: flex;
   justify-content: center;
   box-sizing: border-box;
+  align-items: flex-start;
 }
 
 .item {

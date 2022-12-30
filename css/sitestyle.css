@@ -56,7 +56,7 @@ margin:0 auto
 .menu-bar {
   position: relative top;
   background-color: #1988f7;
-  opacity: 70;
+  opacity: 30;
   display: flex;
   justify-content: space-around;
   box-sizing: border-box;

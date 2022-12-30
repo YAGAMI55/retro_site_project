@@ -65,7 +65,7 @@ height:calc(100% - 6px)
 }
 
 .menu-bar {
-  position: relative bottom;
+  position: relative top;
   background-color: #1988f7;
   display: flex;
   justify-content: center;

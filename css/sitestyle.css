@@ -80,6 +80,7 @@ margin:0 auto
 }
 
 .text_about {
+  display:flex
   align-self:center;
   margin:0 auto
   font-family:'Roboto Condensed',sans-serif;

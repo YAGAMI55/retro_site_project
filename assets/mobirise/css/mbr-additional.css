@@ -1410,7 +1410,8 @@ a {
 .cid-ts54CX4MUK {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/page-bg-1000x564.jpg");
+  /* background-image: url("../../../assets/images/page-bg-1000x564.jpg"); */
+  background-image: linear-gradient(90deg, rgba(47, 50, 101, 1) 0%, rgba(118, 45, 79, 1) 60%, rgba(188, 40, 56, 1) 100%);
 }
 .cid-ts54CX4MUK .mbr-overlay {
   background: #000000;
